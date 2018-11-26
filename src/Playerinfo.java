@@ -69,9 +69,10 @@ public class Playerinfo {
 			for (int i = 0; i < taldeak.size(); i++) {
 
 				if (partidua.get(e).getEquipoLocal().getName().equals(taldeak.get(i).getName())) {
+					System.out.print(taldeak.get(i).getName() + " " + taldeak.get(i).league());
 					for (int a = 0; a < jokalariak.size(); a++) {
 						if (taldeak.get(i).getName().equals(jokalariak.get(a).getTeam())) {
-							System.out.print(taldeak.get(i).getName() + " " + taldeak.get(i).league() +" "+jokalariak.get(a).getAge()+ " "+jokalariak.get(a).getName());
+							System.out.print(" " + jokalariak.get(a).getAge() + " " + jokalariak.get(a).getName());
 
 						}
 					}
@@ -82,15 +83,16 @@ public class Playerinfo {
 			for (int i = 0; i < taldeak.size(); i++) {
 
 				if (partidua.get(e).getEquipoVisitante().getName().equals(taldeak.get(i).getName())) {
+					System.out.print(taldeak.get(i).getName() + " " + taldeak.get(i).league());
 					for (int a = 0; a < jokalariak.size(); a++) {
 						if (taldeak.get(i).getName().equals(jokalariak.get(a).getTeam())) {
-
-							System.out.print(taldeak.get(i).getName() + " " + taldeak.get(i).league()+" "+jokalariak.get(a).getAge() + " "+jokalariak.get(a).getName());
+							System.out.print(" " + jokalariak.get(a).getAge() + " " + jokalariak.get(a).getName());
 
 						}
 					}
+
 				}
-				
+
 			}
 			System.out.println();
 		}

@@ -1,9 +1,12 @@
 Vinicius::18::RealMadrid
 Markel::32::Getafe
+Molina::33::Getafe
 Player1::22::Touring
 Ander::21::Oiartzun
 Iñaki::21::Usurbil
+Mikel::31::Usurbil
 Agirretxe::31::RealSociedad
+Aritz::25::RealSociedad
 Roger::25::Levante
 Vinicius JR::18::Vinicius
 Reguilon::19::Reguilon
@@ -15,3 +18,4 @@ Player4::27::Celtic
 Player5::26::Rangers
 Player6::32::Zurich
 Player7::29::Basilea
+Benzema::30::RealMadrid
