@@ -1,0 +1,17 @@
+RealMadrid::Spain::Laliga::33
+Getafe::Spain::Laliga::0
+Touring::BasqueCountry::Regional::0
+Oiartzun::BasqueCountry::Regional::0
+Usurbil::BasqueCountry::Regional::40
+RealSociedad::BasqueCountry::Laliga::2
+Levante::Spain::Laliga::0
+Vinicius::Brasil::Laliga::100000
+Reguilon::Spain::Laliga::0
+Castilla::Spain::2b::0
+WerderBremen::Germany::Bundesliga::2
+BocaJuniors::Argentina::LigaArgentina::20
+RiverPlate::Argentina::LigaArgentina::20
+Celtic::Scotland::ScotishPremier::20
+Rangers::Scotland::ScotishPremier::10
+Zurich::Switzerland::SwissSuperLeague::5
+Basilea::Switzerland::SwissSuperLeague::2

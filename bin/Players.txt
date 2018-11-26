@@ -1,0 +1,17 @@
+Vinicius::18::RealMadrid
+Markel::32::Getafe
+Player1::22::Touring
+Ander::21::Oiartzun
+Iñaki::21::Usurbil
+Agirretxe::31::RealSociedad
+Roger::25::Levante
+Vinicius JR::18::Vinicius
+Reguilon::19::Reguilon
+Player2::20::Castilla
+Player3::25::WerderBremen
+Tevez::36::BocaJuniors
+Armani::25::RiverPlate
+Player4::27::Celtic
+Player5::26::Rangers
+Player6::32::Zurich
+Player7::29::Basilea

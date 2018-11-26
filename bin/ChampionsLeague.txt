@@ -1,0 +1,8 @@
+RealMadrid::Roma::0::7
+Bayern::Ajax::1::3
+Juventus::YoungBoys::20::0
+Valencia::ManchesterUnited::0::0
+Barcelona::Inter::0::0
+Borussia::Atletico::9::0
+Liverpool::EstrellaRoja::1::2
+CSKA::ViktoriaPilzen::3::0

@@ -1,0 +1,10 @@
+RealMadrid::Getafe::0::7
+Touring::RealMadrid::1::3
+Usurbil::Oiartzun::20::0
+RealSociedad::Sevilla::0::0
+Levante::Getafe::0::0
+Vinicius::Reguilon::9::0
+Castilla::WerderBremen::1::2
+BocaJuniors::RiverPlate::3::0
+Celtic::Rangers::1::0
+Zurich::Basilea::1::1
